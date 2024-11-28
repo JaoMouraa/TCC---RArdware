@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "tcc",
+    "slug": "snack-f3c92db6-2146-4ba1-9ac7-af9e005496f1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.snackf3c92db621464ba19ac7af9e005496f1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
